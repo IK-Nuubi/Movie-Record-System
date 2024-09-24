@@ -1,2 +1,2 @@
 # Movie-Record-System
-A movie Record system made using Python
+A movie record system made using Python
